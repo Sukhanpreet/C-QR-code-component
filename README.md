@@ -1,0 +1,1 @@
+# c-qr-code-component
